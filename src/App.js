@@ -43,8 +43,9 @@ function App() {
             onDelete={deleteNote}
             />
           })}
-      <Footer/>
+        <Footer/>
     </div>
+    
   );
 }
 
